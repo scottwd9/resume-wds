@@ -1,6 +1,6 @@
 William Scott (wds@williamscott.me)
 
-OBJECTIVE
+SUMMARY
 
 William Scott is a software engineer with experience in web
 development and parallel computing who thrives in a fast-paced,

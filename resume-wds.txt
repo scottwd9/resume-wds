@@ -1,0 +1,129 @@
+William Scott (wds@williamscott.me)
+
+OBJECTIVE
+
+William Scott is a software engineer with experience in web
+development and parallel computing who thrives in a fast-paced,
+startup-like environment. He is skilled in the entire software life
+cycle, including feature planning, team management, implementation,
+and product support. William is passionate about mobile application
+development and creating new technologies to solve real-world
+problems.
+
+SKILLS
+
+Languages: Java, Scala, Groovy, Python, HTML5, CSS, JavaScript, SQL,
+Bash, C/C++
+
+Technologies: JavaEE, J2EE, Android, Play, Hibernate, Seam, Richfaces,
+Quartz, Spring, jQuery, jUnit, Heroku, OpenShift, Amazon Web Services,
+DICOM, XDS(-I)
+
+Tools: Emacs, Eclipse, NetBeans, IntelliJ IDEA, GlassFish, JBoss,
+Apache Tomcat, PostgreSQL, SQLite, MySQL, Ant, Maven, Gradle, Git,
+SVN, JIRA
+
+Methodologies: RESTful Web Services, MVC, Unit Testing, Design
+Patterns, Scrum, Agile / XP, Waterfall, Usability, Code Performance
+Analysis, Project Management, Object-Oriented Design
+
+Operating Systems: Mac OS X, Linux/Unix, Windows
+
+EXPERIENCE
+
+itMD, Remote                                                May 2011 - Dec 2011
+
+- Developed a scalable, highly-available web-based medical imaging
+  network with workflows designed specifically for
+  radiologists. (Java, HTML, CSS, JavaScript)
+- Designed and implemented a plugin system capable of launching most
+  web-based and desktop medical image viewers. (Java)
+- Setup, maintained, and monitored cloud infrastructure on Amazon Web
+  Services and OpSource as well as private server installs. (Bash,
+  Nagios)
+- Collaborated with physicians and radiologists to design, mockup and
+  document new application features and managed overseas developers.
+- Provided technical customer support to diagnose problems and
+  identify application bugs. (Zendesk)
+
+Wake Forest University Health Sciences, Winston-Salem, NC   Nov 2009 - May 2011
+Analyst / Programmer
+
+- Developed a secure, patient-driven medical image sharing network as
+  part of an NIH-funded project, with specific focus on rural
+  providers and limited IT resources.
+- Incorporated HL7 and XDS health care profile functionality. (Java)
+- Produced a clinical imaging workstation which reduced patient CD
+  image import errors by 90%. (Java, Bash)
+- Augmented the open source project dcm4chee-Archive with a custom API
+  and event callback system to aid in image transfer between
+  facilities. (Java)
+- Improved performance of RSNA's MIRC software for in-house use by
+  modifying image workflow and caching. (Java)
+- Initial member of WFU Mobile Application Development Group which
+  seeks to explore and initiate the use of mobile devices in
+  health care. (Android, iOS)
+
+GreatWall Systems, Inc., Winston-Salem, NC                  Oct 2007 - Mar 2009
+Software Engineer
+
+- Developed multi-core, high-performance parallel firewall solutions
+  working in a startup atmosphere with a geographically distributed
+  team.
+- Implemented access rule storage structures and dependency
+  tests. (C++)
+- Analyzed and implemented thread-safe rule order optimization
+  algorithms.
+- Designed and developed a packet session tracking system capable of
+  real-time performance.
+- Prepared RFC-compliant firewall benchmarking and testing procedures.
+
+Wake Forest University, Winston-Salem, NC                   Aug 2005 - May 2007
+Teaching Assistant
+
+- Instructed computer science lab and tutored students in related
+  subject matter.
+- Graded lab exercises, course assignments and examinations.
+
+Roanoke College Information Services, Roanoke VA            May 2003 - Feb 2004
+Web Programmer
+
+- Performed initial rollout of the Roanoke College Web Portal (MyRC).
+- Maintained Linux development and production environments with
+  respect to the Java J2EE platform, Tomcat, and MySQL.
+- Developed Java Servlets and ServerPages to provide content and
+  single-on functionality for existing web services.
+
+EDUCATION
+
+Wake Forest University
+MS, Computer Science - Focus on Bioinformatics
+
+Roanoke College
+BS, Computer Science & Mathematics
+
+RESEARCH
+
+Bioinformatics                                              Jan 2006 - Dec 2006
+
+Employed parallel search and clustering algorithms to search protein
+structure databases and infer undocumented protein function using
+3-dimensional profiles of protein active sites.
+
+Graph Theory                                                May 2004 - Aug 2004
+
+Implemented parallel search algorithms on a Beowulf MPI cluster to
+determine optimal frequency assignments for different cellular network
+topologies, which guided a more general proof of such assignments.
+
+ACTIVITIES
+
+NetBeans Community Contributor
+
+Running - Regularly log 25 miles per week. Completed four marathons
+and three half marathons.
+
+Pi Kappa Alpha - National Greek Social Fraternity. Elected chapter
+Internal Vice President. Developed and maintained chapter website.
+
+Upsilon Pi Epsilon - National Computer Science Honors Society.

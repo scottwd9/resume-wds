@@ -31,7 +31,7 @@ Operating Systems: Mac OS X, Linux/Unix, Windows
 
 EXPERIENCE
 
-itMD, Remote                                                May 2011 - Dec 2011
+itMD, Remote                                                Apr 2011 - Dec 2011
 
 - Developed a scalable, highly-available web-based medical imaging
   network with workflows designed specifically for

@@ -23,8 +23,8 @@ Tools: Emacs, Eclipse, NetBeans, GlassFish, JBoss, Apache Tomcat,
 PostgreSQL, SQLite, MySQL, Ant, Maven, Gradle, Git, SVN
 
 Methodologies: RESTful Web Services, MVC, Unit Testing, Design
-Patterns, Scrum, Agile / XP, Waterfall, Usability, Code Performance
-Analysis, Project Management, Object-Oriented Design
+Patterns, Scrum, Agile / XP, Code Performance Analysis, Project
+Management, Object-Oriented Design
 
 Operating Systems: Mac OS X, Linux/Unix, Windows
 

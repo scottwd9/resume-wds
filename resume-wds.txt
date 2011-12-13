@@ -3,7 +3,7 @@ William Scott (wds@williamscott.me)
 SUMMARY
 
 William Scott is a software engineer with experience in web
-development and parallel computing who thrives in a fast-paced,
+development and parallel computing who thrives in a fast-paced
 environment. He is skilled in the entire software life cycle,
 including feature planning, team management, implementation, and
 product support. William is passionate about mobile application
@@ -41,7 +41,7 @@ itMD, Remote                                                May 2011 - Dec 2011
 - Setup, maintained, and monitored cloud infrastructure on Amazon Web
   Services and OpSource as well as private server installs. (Bash,
   Nagios)
-- Collaborated with physicians and radiologists to design, mockup and
+- Collaborated with physicians and radiologists to design, mockup, and
   document new application features and managed overseas developers.
 - Provided technical customer support to diagnose problems and
   identify application bugs. (Zendesk)

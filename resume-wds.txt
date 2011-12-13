@@ -19,9 +19,8 @@ Technologies: JavaEE, J2EE, Android, Play, Hibernate, Seam, Richfaces,
 Quartz, Spring, jQuery, jUnit, Heroku, OpenShift, Amazon Web Services,
 DICOM, XDS(-I), HL7
 
-Tools: Emacs, Eclipse, NetBeans, IntelliJ IDEA, GlassFish, JBoss,
-Apache Tomcat, PostgreSQL, SQLite, MySQL, Ant, Maven, Gradle, Git,
-SVN
+Tools: Emacs, Eclipse, NetBeans, GlassFish, JBoss, Apache Tomcat,
+PostgreSQL, SQLite, MySQL, Ant, Maven, Gradle, Git, SVN
 
 Methodologies: RESTful Web Services, MVC, Unit Testing, Design
 Patterns, Scrum, Agile / XP, Waterfall, Usability, Code Performance

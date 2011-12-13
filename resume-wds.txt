@@ -84,7 +84,7 @@ Teaching Assistant
   subject matter.
 - Graded lab exercises, course assignments, and examinations.
 
-Roanoke College Information Services, Roanoke, VA            May 2003 - Feb 2004
+Roanoke College Information Services, Roanoke, VA           May 2003 - Feb 2004
 Web Programmer
 
 - Performed initial rollout of the Roanoke College Web Portal (MyRC).

@@ -28,7 +28,8 @@ EXPERIENCE
 Wireless Generation                                         Jan 2012 - Present
 Senior Software Engineer
 
-Java, MongoDB, JavaScript, Jersey (JAX-RS), Spring, RESTful Web Services, Agile, Python, Bash, Gherkin, Cucumber, Unit/Acceptance Testing
+Java, MongoDB, JavaScript, Jersey (JAX-RS), Spring, RESTful Web Services,
+Agile, Python, Bash, Gherkin, Cucumber, Unit/Acceptance Testing
 
 itMD, Remote                                                Apr 2011 - Dec 2011
 Software Engineer

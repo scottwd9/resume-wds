@@ -118,7 +118,8 @@ topologies, which guided a more general proof of such assignments.
 
 ACTIVITIES
 
-NetBeans Community Contributor
+Attend community meetups: TriJUG, Triangle JavaScript, Raleigh MongoDB,
+Fullsteam Ahead! Run Club
 
 Running - Regularly log 25 miles per week. Completed five marathons
 and three half marathons.
@@ -127,3 +128,5 @@ Pi Kappa Alpha - National Greek Social Fraternity. Elected chapter
 Internal Vice President. Developed and maintained chapter website.
 
 Upsilon Pi Epsilon - National Computer Science Honors Society.
+
+NetBeans Community Contributor

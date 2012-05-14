@@ -12,23 +12,23 @@ problems.
 
 SKILLS
 
-Languages: Java, Scala, Groovy, Python, HTML5, CSS, JavaScript, SQL,
-Bash, C/C++
+Languages: Java, Scala, JavaScript, Python, HTML5, CSS, SQL, Bash
 
-Technologies: JavaEE, J2EE, Android, Play, Hibernate, Seam, Richfaces,
-Quartz, Spring, jQuery, jUnit, Heroku, OpenShift, Amazon Web Services,
-DICOM, XDS(-I), HL7
+Technologies: JavaEE, Android, Play, Hibernate, Quartz, Spring, jQuery,
+Node, jUnit, Heroku, Amazon Web Services, J2EE
 
-Tools: Emacs, Eclipse, NetBeans, GlassFish, JBoss, Apache Tomcat,
-PostgreSQL, SQLite, MySQL, Ant, Maven, Gradle, Git, SVN
+Tools: Emacs, IntelliJ, Eclipse, GlassFish, Tomcat, MongoDB, PostgreSQL,
+SQLite, Ant, Maven, Git, SVN
 
-Methodologies: RESTful Web Services, MVC, Unit Testing, Design
-Patterns, Scrum, Agile / XP, Code Performance Analysis, Project
-Management, Object-Oriented Design
-
-Operating Systems: Mac OS X, Linux/Unix, Windows
+Methodologies: RESTful Web Services, MVC, Unit Testing, Design Patterns,
+Agile / Scrum, Project Management, Object-Oriented Design
 
 EXPERIENCE
+
+Wireless Generation                                         Jan 2012 - Present
+Senior Software Engineer
+
+Java, MongoDB, JavaScript, Jersey (JAX-RS), Spring, RESTful Web Services, Agile, Python, Bash, Gherkin, Cucumber, Unit/Acceptance Testing
 
 itMD, Remote                                                Apr 2011 - Dec 2011
 Software Engineer
@@ -47,7 +47,7 @@ Software Engineer
   identify application bugs. (Zendesk)
 
 Wake Forest University Health Sciences, Winston-Salem, NC   Nov 2009 - May 2011
-Analyst / Programmer
+Analyst / Programmer II
 
 - Developed a secure, patient-driven medical image sharing network as
   part of an NIH-funded project, with specific focus on rural
@@ -62,7 +62,7 @@ Analyst / Programmer
   modifying image workflow and caching. (Java)
 - Initial member of WFU Mobile Application Development Group which
   seeks to explore and initiate the use of mobile devices in
-  health care. (Android, iOS)
+  health care. (Android)
 
 GreatWall Systems, Inc., Winston-Salem, NC                  Oct 2007 - Mar 2009
 Software Engineer
@@ -119,7 +119,7 @@ ACTIVITIES
 
 NetBeans Community Contributor
 
-Running - Regularly log 25 miles per week. Completed four marathons
+Running - Regularly log 25 miles per week. Completed five marathons
 and three half marathons.
 
 Pi Kappa Alpha - National Greek Social Fraternity. Elected chapter

@@ -2,20 +2,19 @@ William Scott (wds@williamscott.me)
 
 SUMMARY
 
-William Scott is a software engineer with experience in web
-development and parallel computing who thrives in a fast-paced
-environment. He is skilled in the entire software life cycle,
-including feature planning, team management, implementation, and
-product support. William is passionate about mobile application
-development and creating new technologies to solve real-world
-problems.
+William Scott is a software engineer with experience in web development and
+parallel computing who thrives in a fast-paced environment. He is skilled
+in the entire software life cycle, including feature planning, team
+management, implementation, and product support. William is passionate about
+mobile application development and creating new technologies to solve
+real-world problems.
 
 SKILLS
 
-Languages: Java, Scala, JavaScript, Python, HTML5, CSS, SQL, Bash
+Languages: Java, Scala, JavaScript, Ruby, Python, HTML5, CSS, SQL, Bash
 
-Technologies: JavaEE, Android, Play, Hibernate, Quartz, Spring, jQuery,
-Node, jUnit, Heroku, Amazon Web Services, J2EE
+Technologies: JavaEE, Android, Spring, Play Framework, jQuery, Node JS,
+JUnit, Heroku, Amazon Web Services, J2EE
 
 Tools: Emacs, IntelliJ, Eclipse, GlassFish, Tomcat, MongoDB, PostgreSQL,
 SQLite, Ant, Maven, Git, SVN
@@ -25,11 +24,23 @@ Agile / Scrum, Project Management, Object-Oriented Design
 
 EXPERIENCE
 
-Wireless Generation                                         Jan 2012 - Present
+Wireless Generation, Durham, NC                              Jan 2012 - Present
 Senior Software Engineer
 
-Java, MongoDB, JavaScript, Jersey (JAX-RS), Spring, RESTful Web Services,
-Agile, Python, Bash, Gherkin, Cucumber, Unit/Acceptance Testing
+- Developed an education data store and application platform, with full-stack
+  involvement and specific responsibility in the data store and access layer,
+  bulk data ingestion, and secure RESTful API. (Java, Spring, JAX-RS)
+- Lead the design and implementation of MongoDB sharding and indexing strategy,
+  and developed custom profiling tools. (MongoDB, Python)
+- Constructed initial API documentation generation workflow and worked closely
+  with the technical writer team to deliver platform documentation. (Python,
+  Bash)
+- Ensured platform quality via full-stack unit and acceptance tests.
+  (JUnit, Ruby, Cucumber, Gherkin)
+- Initiated change in company culture with respect to CI, version control and
+  branching, and tooling. (Jenkins, Git)
+- Mentored junior engineers via pair programming, code reviews, and whiteboard
+  design sessions.
 
 itMD, Remote                                                Apr 2011 - Dec 2011
 Software Engineer
@@ -42,7 +53,7 @@ Software Engineer
 - Managed cloud infrastructure, including setup, administration, and
   monitoring, on Amazon Web Services and OpSource as well as private
   server installs. (Bash, Nagios)
-- Collaborated with physicians and radiologists to design, mockup, and
+- Collaborated with physicians and radiologists to design, mock-up, and
   document new application features and directed overseas developers.
 - Provided technical customer support to diagnose problems and
   identify application bugs. (Zendesk)
@@ -88,7 +99,7 @@ Teaching Assistant
 Roanoke College Information Services, Roanoke, VA           May 2003 - Feb 2004
 Web Programmer
 
-- Performed initial rollout of the Roanoke College Web Portal (MyRC).
+- Performed initial roll-out of the Roanoke College Web Portal (MyRC).
 - Maintained Linux development and production environments with
   respect to the Java J2EE platform, Tomcat, and MySQL.
 - Developed Java Servlets and ServerPages to provide content and
@@ -121,12 +132,10 @@ ACTIVITIES
 Attend community meetups: TriJUG, Triangle JavaScript, Raleigh MongoDB,
 Fullsteam Ahead! Run Club
 
-Running - Regularly log 25 miles per week. Completed five marathons
+Running - Regularly log 25 miles per week. Completed six marathons
 and three half marathons.
 
 Pi Kappa Alpha - National Greek Social Fraternity. Elected chapter
 Internal Vice President. Developed and maintained chapter website.
 
 Upsilon Pi Epsilon - National Computer Science Honors Society.
-
-NetBeans Community Contributor

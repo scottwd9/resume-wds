@@ -16,8 +16,8 @@ Languages: Java, Scala, JavaScript, Ruby, Python, HTML5, CSS, SQL, Bash
 Technologies: JavaEE, Android, Spring, Play Framework, jQuery, Node JS,
 JUnit, Heroku, Amazon Web Services, J2EE
 
-Tools: Emacs, IntelliJ, Eclipse, GlassFish, Tomcat, MongoDB, PostgreSQL,
-SQLite, Ant, Maven, Git, SVN
+Tools: Emacs, IntelliJ, Eclipse, MongoDB, PostgreSQL, SQLite, GlassFish,
+Tomcat, Ant, Maven, Git, SVN
 
 Methodologies: RESTful Web Services, MVC, Unit Testing, Design Patterns,
 Agile / Scrum, Project Management, Object-Oriented Design

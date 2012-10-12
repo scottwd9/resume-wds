@@ -13,7 +13,7 @@ SKILLS
 
 Languages: Java, Scala, JavaScript, Ruby, Python, HTML5, CSS, SQL, Bash
 
-Technologies: JavaEE, Android, Play Framework, Node JS, jQuery, Spring,
+Technologies: JavaEE, Android, Play Framework, Node.js, jQuery, Spring,
 Heroku, Amazon Web Services, J2EE
 
 Tools: Emacs, IntelliJ, Eclipse, MongoDB, Git, PostgreSQL, Tomcat, Maven,

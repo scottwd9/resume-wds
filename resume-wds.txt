@@ -21,7 +21,7 @@ Design Patterns, Agile / Scrum, Object-Oriented Design
 
 EXPERIENCE
 
-Wireless Generation, Durham, NC                              Jan 2012 - Present
+Amplify Education, Durham, NC/Remote                         Jan 2012 - Present
 Senior Software Engineer
 
 - Developed an education data store and application platform, with full-stack

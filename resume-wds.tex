@@ -1,14 +1,14 @@
-%______________________________________________________________________________________________________________________
+%________________________________________________________________________________________
 % @brief    LaTeX2e Resume for William Scott
 \documentclass[margin,line]{resume}
 \usepackage[usenames]{color}
 \definecolor{mySideColor}{rgb}{0.5,0.5,0.5}
 \linespread{1.1}
-%______________________________________________________________________________________________________________________
+%________________________________________________________________________________________
 \begin{document}
 \name{\huge William Scott}
 \begin{resume}
-	\vspace{-4mm}
+\vspace{-4mm}
 
   % ==========================
   % Contact Information
@@ -16,10 +16,10 @@
 
   \section{\mysidestyle \textcolor{mySideColor}{Contact}}
 
-	http://williamscott.me \hfill wds@williamscott.me
+  http://williamscott.me \hfill wds@williamscott.me
 
-	% Address Line 1 \hfill Phone \\
-	% Address Line 2 \hfill Email
+%  Address 1 \hfill Phone \\
+%  Address 2 \hfill wds@williamscott.me
 
 
   % ==========================
@@ -28,13 +28,11 @@
 
   \section{\mysidestyle \textcolor{mySideColor}{Summary}}
 
-  William Scott is a software engineer with experience in web
-  development and parallel computing who thrives in a fast-paced
-  environment. He is skilled in the entire software life cycle,
-  including feature planning, team management, implementation, and
-  product support. William is passionate about mobile application
-  development and creating new technologies to solve real-world
-  problems.
+William Scott is a software engineer with experience in web and mobile
+application development who thrives in a fast-paced environment. He is skilled
+in the entire product life cycle, including feature planning, team management,
+implementation, and product support. William is passionate about thinking
+creatively and developing solutions to real-world problems.
 
   % ==========================
   % Skills
@@ -42,25 +40,14 @@
 
   \section{\mysidestyle \textcolor{mySideColor}{Skills}}
 
-  \textbf{Languages:} Java, Scala, JavaScript, Ruby, Python, HTML5,
-  CSS, SQL, Bash
+  \textbf{Languages:} Java, Scala, JavaScript, Objective-C, Python, Ruby, SQL
 	\vspace{-2mm}
 
-  \textbf{Technologies:} JavaEE, Android, Spring, jQuery, Node JS,
-  JUnit, Heroku, Amazon Web Services, J2EE
+  \textbf{Technologies:} AngularJS, Node.js, iOS, MongoDB, Git, PostgreSQL, JavaEE, Android, jQuery, Spring, Tomcat, Maven, JUnit, Jenkins, Heroku, Amazon Web Services, J2EE
 	\vspace{-2mm}
 
-  \textbf{Tools:} Emacs, IntelliJ, Eclipse, MongoDB, PostgreSQL, SQLite,
-  GlassFish, Tomcat, Ant, Maven, Git, SVN
+  \textbf{Methodologies:} RESTful Web Services, Continuous Integration, MVC, Unit Testing, Design Patterns, Agile / Scrum, Object-Oriented Design
 	\vspace{-2mm}
-
-  \textbf{Methodologies:} RESTful Web Services, MVC, Unit Testing,
-  Design Patterns, Agile / Scrum, Project Management, Object-Oriented
-  Design
-	\vspace{-2mm}
-
-  \textbf{Operating Systems:} Mac OS X, Linux/Unix, Windows
-
 
   % ==========================
   % Experience
@@ -72,96 +59,83 @@
   \textsl{Senior Software Engineer}\\
   \vspace{-3mm}
   \begin{list2}
-  \item Developed an education data store and application platform, with full-stack
-    involvement and specific responsibility in the data store and access layer,
-    bulk data ingestion, and secure RESTful API. (Java, Spring, JAX-RS)
-  \item Lead the design and implementation of MongoDB sharding and indexing strategy,
-    and developed custom profiling tools. (MongoDB, Python)
-  \item Constructed initial API documentation generation workflow and worked closely
-    with the technical writer team to deliver platform documentation. (Python,
-    Bash)
-  \item Ensured platform quality via full-stack unit and acceptance tests.
-    (JUnit, Ruby, Cucumber, Gherkin)
-  \item Initiated change in company culture with respect to CI, version control and
-    branching, and tooling. (Jenkins, Git)
-  \item Mentored junior engineers via pair programming, code reviews, and whiteboard
-    design sessions.
+\item Developed an education data store and application platform, with full-stack
+  involvement and specific responsibility in the data store, data access layer,
+  and secure RESTful API. (Java, Spring, JAX-RS)
+\item Lead the design and implementation of MongoDB sharding and indexing strategy
+  and employed profiling and code analysis to optimize queries. (MongoDB,
+  JavaScript, Python)
+\item Constructed initial API documentation generation workflow and worked closely
+  with the technical writer team to deliver platform documentation. (Python,
+  Bash)
+\item Ensured platform quality via full-stack unit and integration tests. (JUnit,
+  Ruby)
+\item Developed collaborative tabled-based applications which aided teachers
+  with integrated curriculum instruction and assessment workflows. (iOS,
+  Node.js, JavaScript, HTML5, CSS, Socket.io)
+\item Initiated improvements in company culture by mentoring junior engineers and
+  advancing workflows with respect to CI, version control, and tooling (Git,
+  Jenkins)
   \end{list2}
 
   \textbf{itMD}, Remote \hfill Apr 2011 - Dec 2011\vspace{1mm}\\
   \textsl{Software Engineer}\\
   \vspace{-3mm}
   \begin{list2}
-  \item Developed a scalable, highly-available web-based medical
-    imaging network with workflows designed specifically for
-    radiologists. (Java, HTML, CSS, JavaScript)
-  \item Designed and implemented a plugin system capable of launching
-    most web-based and desktop medical image viewers. (Java)
-  \item Managed cloud infrastructure including setup, administration,
-    and monitoring on Amazon Web Services and OpSource as well as
-    private server installs. (Bash, Nagios)
-  \item Collaborated with physicians and radiologists to design,
-    mock-up, and document new application features and directed
-    overseas developers.
-  \item Provided technical customer support to diagnose problems and
-    identify application bugs.
+\item Developed a scalable, highly-available web-based medical imaging network with
+  workflows designed specifically for radiologists. (Java, HTML, CSS,
+  JavaScript)
+\item Designed and implemented a plugin system capable of launching most web-based
+  and desktop medical image viewers. (Java)
+\item Managed cloud infrastructure, including setup, administration, and
+  monitoring, on Amazon Web Services and OpSource as well as private server
+  installs. (Bash, Nagios)
+\item Collaborated with physicians and radiologists to design, mock-up, and
+  document new application features and directed overseas developers.
+\item Provided technical customer support to diagnose problems and identify
+  application bugs. (Zendesk)
   \end{list2}
 
   \textbf{Wake Forest University Health Sciences}, Winston-Salem, NC \hfill Nov 2009 - May 2011\vspace{1mm}\\
   \textsl{Analyst / Programmer}\\
   \vspace{-3mm}
   \begin{list2}
-  \item Developed a secure, patient-driven medical image sharing
-    network as part of an NIH-funded project, with specific focus on
-    rural providers and limited IT resources.
-  \item Incorporated HL7 and XDS health care profile
-    functionality. (Java)
-  \item Produced a clinical imaging workstation which reduced patient
-    CD image import errors by 90\%. (Java, Bash)
-  \item Augmented the open source project dcm4chee-Archive with a
-    custom API and event callback system to aid in image transfer
-    between facilities. (Java)
-  \item Improved performance of RSNA's MIRC software for in-house use
-    by modifying image workflow and caching. (Java)
-  \item Initial member of WFU Mobile Application Development Group
-    which seeks to explore and initiate the use of mobile devices in
-    health care. (Android)
+\item Developed a secure, patient-driven medical image sharing network as part of
+  an NIH-funded project, with specific focus on rural providers and limited
+  IT resources.
+\item Incorporated HL7 and XDS health care profile functionality. (Java)
+\item Produced a clinical imaging workstation which reduced patient CD image import
+  errors by 90%. (Java, Bash)
+\item Augmented the open source project dcm4chee-Archive with a custom API and
+  event callback system to aid in image transfer between facilities. (Java)
+\item Improved performance of RSNA's MIRC software for in-house use by modifying
+  image workflow and caching. (Java)
+\item Initial member of WFU Mobile Application Development Group which seeks to
+  explore and initiate the use of mobile devices in health care. (Android)
   \end{list2}
 
   \textbf{GreatWall Systems, Inc.}, Winston-Salem, NC \hfill Oct 2007 - Mar 2009\vspace{1mm}\\
   \textsl{Software Engineer}\\
   \vspace{-3mm}
   \begin{list2}
-  \item Developed multi-core, high-performance parallel firewall
-    solutions working with a geographically distributed team.
-  \item Implemented access rule storage structures and dependency
-    tests. (C++)
-  \item Analyzed and implemented thread-safe rule order optimization
-    algorithms.
-  \item Designed and developed a packet session tracking system
-    capable of real-time performance.
-  \item Prepared RFC-compliant firewall benchmarking and testing
-    procedures.
-  \end{list2}
-
-  \textbf{Wake Forest University}, Winston-Salem, NC \hfill Aug 2005 - May 2007\vspace{1mm}\\
-  \textsl{Teaching Assistant}\\
-  \vspace{-3mm}
-  \begin{list2}
-  \item Instructed computer science lab and tutored students in
-    related subject matter.
-  \item Graded lab exercises, course assignments, and examinations.
+\item Developed multi-core, high-performance parallel firewall solutions working
+  with a geographically distributed team.
+\item Implemented access rule storage structures and dependency tests. (C++)
+\item Analyzed and implemented thread-safe rule order optimization algorithms.
+\item Designed and developed a packet session tracking system capable of real-time
+  performance.
+\item Prepared RFC-compliant firewall benchmarking and testing procedures.
   \end{list2}
 
   \textbf{Roanoke College Information Services}, Roanoke, VA \hfill May 2003 - Feb 2004\vspace{1mm}\\
   \textsl{Web Programmer}\\
   \vspace{-3mm}
   \begin{list2}
-  \item Performed initial roll-out of the Roanoke College Web Portal (MyRC).
-  \item Maintained Linux development and production environments with
-    respect to the Java J2EE platform, Tomcat, and MySQL.
-  \item Developed Java Servlets and ServerPages to provide content and
-    single-on functionality for existing web services.
+\item Performed initial roll-out of the Roanoke College Web Portal (MyRC).
+\item Maintained Linux development and production environments with respect to
+  the Java J2EE platform, Tomcat, and MySQL.
+\item Developed Java Servlets and ServerPages to provide content and single-on
+  functionality for existing web services.
   \end{list2}
 
 
@@ -201,18 +175,19 @@
 
   \section{\mysidestyle \textcolor{mySideColor}{Activities}}
 
-  Attend community meetups: TriJUG, Triangle JavaScript, Raleigh MongoDB,
-  Fullsteam Ahead! Run Club
+  Recent independent coursework: Advanced iOS Programming (Big Nerd Ranch),
+Functional Programming Principles in Scala (Coursera).
 
-  Running - Regularly log 25 miles per week. Completed six marathons
-  and three half marathons.\vspace{-2mm}
+  Attend community meetups: TriJUG, Triangle JavaScript, Triangle Cocoa, TriAngular.js,
+FullSteam Ahead! Run Club.
+
+  Running - Regularly log 35 miles per week. Completed seven marathons.\vspace{-2mm}
 
   Pi Kappa Alpha - National Greek Social Fraternity. Elected chapter
   Internal Vice President. Developed and maintained chapter
   website.\vspace{-2mm}
 
-  Upsilon Pi Epsilon - National Computer Science Honors
-  Society.\vspace{-2mm}
+  Upsilon Pi Epsilon - National Computer Science Honors Society.\vspace{-2mm}
 
 \end{resume}
 \end{document}

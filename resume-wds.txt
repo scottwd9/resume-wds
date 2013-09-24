@@ -4,15 +4,15 @@ SUMMARY
 
 William Scott is a software engineer with experience in web and mobile
 application development who thrives in a fast-paced environment. He is skilled
-in the entire product lifecycle, including feature planning, team management,
-implementation, and product suport. William is passionate about thinking
+in the entire product life cycle, including feature planning, team management,
+implementation, and product support. William is passionate about thinking
 creatively and developing solutions to real-world problems.
 
 SKILLS
 
-Languages: Java, Scala, JavaScript, Objective-C, Python, HTML5, CSS, SQL
+Languages: Java, Scala, JavaScript, Objective-C, Python, Ruby, SQL
 
-Technologies: iOS, Node.js, MongoDB, Play Framework, Git, PostgreSQL, JavaEE,
+Technologies: AngularJS, Node.js, iOS, MongoDB, Git, PostgreSQL, JavaEE,
 Android, jQuery, Spring, Tomcat, Maven, JUnit, Jenkins, Heroku, Amazon Web
 Services, J2EE
 
@@ -35,9 +35,9 @@ Senior Software Engineer
   Bash)
 - Ensured platform quality via full-stack unit and integration tests. (JUnit,
   Ruby)
-- Developed tabled-based math applications which aided teachers with integrated
-  curriculum instruction and assessment workflows. (iOS, JavaScript, HTML5,
-  CSS)
+- Developed collaborative tabled-based applications which aided teachers
+  with integrated curriculum instruction and assessment workflows. (iOS,
+  Node.js, JavaScript, HTML5, CSS, Socket.io)
 - Initiated improvements in company culture by mentoring junior engineers and
   advancing workflows with respect to CI, version control, and tooling (Git,
   Jenkins)
@@ -108,7 +108,7 @@ Independent Coursework:
 - Advanced iOS Programming (Big Nerd Ranch)
 - Functional Programming Principles in Scala (Coursera)
 
-Attend community meetups: TriJUG, Triangle JavaScript, Raleigh MongoDB,
+Attend community meetups: TriJUG, Triangle JavaScript, Triangle Cocoa, TriAngular.js,
 FullSteam Ahead! Run Club
 
 Running: Regularly log 35 miles per week. Completed seven marathons.

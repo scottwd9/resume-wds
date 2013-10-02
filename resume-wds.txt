@@ -27,7 +27,7 @@ Senior Software Engineer
 - Developed an education data store and application platform, with full-stack
   involvement and specific responsibility in the data store, data access layer,
   and secure RESTful API. (Java, Spring, JAX-RS)
-- Lead the design and implementation of MongoDB sharding and indexing strategy
+- Led the design and implementation of MongoDB sharding and indexing strategy
   and employed profiling and code analysis to optimize queries. (MongoDB,
   JavaScript, Python)
 - Constructed initial API documentation generation workflow and worked closely

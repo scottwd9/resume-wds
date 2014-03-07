@@ -1,9 +1,9 @@
-%________________________________________________________________________________________
+ %________________________________________________________________________________________
 % @brief    LaTeX2e Resume for William Scott
 \documentclass[margin,line]{resume}
 \usepackage[usenames]{color}
 \definecolor{mySideColor}{rgb}{0.5,0.5,0.5}
-\linespread{1.1}
+\linespread{1.15}
 %________________________________________________________________________________________
 \begin{document}
 \name{\huge William Scott}
@@ -16,10 +16,10 @@
 
   \section{\mysidestyle \textcolor{mySideColor}{Contact}}
 
-  http://williamscott.me \hfill wds@williamscott.me
+%  http://williamscott.me \hfill wds@williamscott.me
 
-%  Address 1 \hfill Phone \\
-%  Address 2 \hfill wds@williamscott.me
+  380 Shady Grove Ct. \hfill 540-797-1167 \\
+  Winston-Salem, NC 27103 \hfill wds@williamscott.me
 
 
   % ==========================
@@ -40,13 +40,10 @@ creatively and developing solutions to real-world problems.
 
   \section{\mysidestyle \textcolor{mySideColor}{Skills}}
 
-  \textbf{Languages:} Java, Scala, JavaScript, Objective-C, Python, Ruby, SQL
+  \textbf{Languages:} Java, JavaScript, Scala, Objective-C, Python, SQL
 	\vspace{-2mm}
 
   \textbf{Technologies:} AngularJS, Node.js, iOS, MongoDB, Git, PostgreSQL, JavaEE, Android, jQuery, Spring, Tomcat, Maven, JUnit, Jenkins, Heroku, Amazon Web Services, J2EE
-	\vspace{-2mm}
-
-  \textbf{Methodologies:} RESTful Web Services, Continuous Integration, MVC, Unit Testing, Design Patterns, Agile / Scrum, Object-Oriented Design
 	\vspace{-2mm}
 
   % ==========================
@@ -59,23 +56,26 @@ creatively and developing solutions to real-world problems.
   \textsl{Senior Software Engineer}\\
   \vspace{-3mm}
   \begin{list2}
+\item Developed a web-based, collaborative application platform and workspace providing
+  integrated curriculum and assessment workflows. (JavaScript, AngularJS, HTML5, CSS)
+\item Coordinated with designers and curriculum developers to build math tools which
+  aid student instruction and assessment.
+\item Implemented a proxy API which allows fast project iteration and API development
+  while maintaining integration with core API services. (Node.js, Socket.io)
 \item Developed an education data store and application platform, with full-stack
   involvement and specific responsibility in the data store, data access layer,
   and secure RESTful API. (Java, Spring, JAX-RS)
 \item Led the design and implementation of MongoDB sharding and indexing strategy
-  and employed profiling and code analysis to optimize queries. (MongoDB,
+  and employed profiling and code analysis to optimize database queries. (MongoDB,
   JavaScript, Python)
 \item Constructed initial API documentation generation workflow and worked closely
   with the technical writer team to deliver platform documentation. (Python,
   Bash)
-\item Ensured platform quality via full-stack unit and integration tests. (JUnit,
-  Ruby)
-\item Developed collaborative tabled-based applications which aided teachers
-  with integrated curriculum instruction and assessment workflows. (iOS,
-  Node.js, JavaScript, HTML5, CSS, Socket.io)
-\item Initiated improvements in company culture by mentoring junior engineers and
-  advancing workflows with respect to CI, version control, and tooling (Git,
-  Jenkins)
+\item Ensured code quality via full-stack unit and integration tests. (Protractor,
+  Karma, Jasmine, JUnit, Ruby)
+\item Initiated improvements in company culture by mentoring junior engineers,
+  organizing technology presentations, and advancing workflows with respect to
+  continuous integration and version control. (Git, Jenkins)
   \end{list2}
 
   \textbf{itMD}, Remote \hfill Apr 2011 - Dec 2011\vspace{1mm}\\
@@ -96,6 +96,8 @@ creatively and developing solutions to real-world problems.
   application bugs. (Zendesk)
   \end{list2}
 
+  \newpage
+
   \textbf{Wake Forest University Health Sciences}, Winston-Salem, NC \hfill Nov 2009 - May 2011\vspace{1mm}\\
   \textsl{Analyst / Programmer}\\
   \vspace{-3mm}
@@ -103,41 +105,20 @@ creatively and developing solutions to real-world problems.
 \item Developed a secure, patient-driven medical image sharing network as part of
   an NIH-funded project, with specific focus on rural providers and limited
   IT resources.
-\item Incorporated HL7 and XDS health care profile functionality. (Java)
 \item Produced a clinical imaging workstation which reduced patient CD image import
   errors by 90\%. (Java, Bash)
 \item Augmented the open source project dcm4chee-Archive with a custom API and
   event callback system to aid in image transfer between facilities. (Java)
-\item Improved performance of RSNA's MIRC software for in-house use by modifying
-  image workflow and caching. (Java)
-\item Initial member of WFU Mobile Application Development Group which seeks to
-  explore and initiate the use of mobile devices in health care. (Android)
   \end{list2}
 
   \textbf{GreatWall Systems, Inc.}, Winston-Salem, NC \hfill Oct 2007 - Mar 2009\vspace{1mm}\\
   \textsl{Software Engineer}\\
   \vspace{-3mm}
   \begin{list2}
-\item Developed multi-core, high-performance parallel firewall solutions working
-  with a geographically distributed team.
-\item Implemented access rule storage structures and dependency tests. (C++)
-\item Analyzed and implemented thread-safe rule order optimization algorithms.
-\item Designed and developed a packet session tracking system capable of real-time
-  performance.
-\item Prepared RFC-compliant firewall benchmarking and testing procedures.
+\item Developed multi-core, high-performance parallel firewall solutions.
+\item Analyzed and implemented access rule order optimization algorithms and storage
+  structures. (C++)
   \end{list2}
-
-  \textbf{Roanoke College Information Services}, Roanoke, VA \hfill May 2003 - Feb 2004\vspace{1mm}\\
-  \textsl{Web Programmer}\\
-  \vspace{-3mm}
-  \begin{list2}
-\item Performed initial roll-out of the Roanoke College Web Portal (MyRC).
-\item Maintained Linux development and production environments with respect to
-  the Java J2EE platform, Tomcat, and MySQL.
-\item Developed Java Servlets and ServerPages to provide content and single-on
-  functionality for existing web services.
-  \end{list2}
-
 
   % ==========================
   % Education
@@ -152,24 +133,6 @@ creatively and developing solutions to real-world problems.
   \textsl{Bachelor of Science}, Computer Science \& Mathematics\vspace{-1mm}
 
   % ==========================
-  % Research
-  % ==========================
-
-  \section{\mysidestyle \textcolor{mySideColor}{Research}}
-
-  \textbf{Bioinformatics} \hfill Jan 2006 - Dec 2006 \vspace{2mm}\\
-  Employed parallel search and clustering algorithms to search protein
-  structure databases and infer undocumented protein function using
-  3-dimensional profiles of protein active sites.
-
-  \textbf{Graph Theory} \hfill May 2004 - Aug 2004 \vspace{2mm}\\
-  Implemented parallel search algorithms on a Beowulf MPI cluster to
-  determine optimal frequency assignments for different cellular
-  network topologies, which guided a more general proof of such
-  assignments.
-
-
-  % ==========================
   % Activities
   % ==========================
 
@@ -181,7 +144,8 @@ Functional Programming Principles in Scala (Coursera).
   Attend community meetups: TriJUG, Triangle JavaScript, Triangle Cocoa, TriAngular.js,
 FullSteam Ahead! Run Club.
 
-  Running: Regularly log 35 miles per week. Completed seven marathons.\vspace{-2mm}
+  Running: Regularly log 35 miles per week. Completed eight marathons and one
+ultramarathon.\vspace{-2mm}
 
   Pi Kappa Alpha: National Greek Social Fraternity. Elected chapter
   Internal Vice President. Developed and maintained chapter

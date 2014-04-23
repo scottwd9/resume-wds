@@ -35,7 +35,7 @@ Senior Software Engineer
   Bash)
 - Ensured platform quality via full-stack unit and integration tests. (JUnit,
   Ruby)
-- Developed collaborative tabled-based applications which aided teachers
+- Developed collaborative tablet-based applications which aided teachers
   with integrated curriculum instruction and assessment workflows. (iOS,
   Node.js, JavaScript, HTML5, CSS, Socket.io)
 - Initiated improvements in company culture by mentoring junior engineers and

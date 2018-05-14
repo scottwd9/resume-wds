@@ -2,49 +2,66 @@ William Scott (wds@williamscott.me)
 
 SUMMARY
 
-William Scott is a software engineer with experience in web and mobile
-application development who thrives in a fast-paced environment. He is
-skilled in the entire product life cycle, including feature planning,
-team management, technical implementation, and product support. William
-is passionate about thinking creatively and developing solutions to
-real-world problems.
+I am a technical leader and contributor with experience creating scalable
+back-end systems and great front-end experiences. I can work effectively
+through the entire product life cycle, including feature planning,
+implementation, and team management. I'm passionate about empowering those
+around me and building things that delight customers.
 
 SKILLS
 
-Languages: Java, JavaScript, Scala, Objective-C, Python, SQL, HTML5, CSS3
+Languages: Java, JavaScript, Groovy, Scala, SQL, Objective-C, Python, HTML, CSS
 
-Technologies: AngularJS, Node.js, jQuery, MongoDB, Git, PostgreSQL, JavaEE,
-Spring, Tomcat, Maven, JUnit, Jenkins, iOS, Android, Amazon Web Services, J2EE
+Technologies: React, Redux, Node.js, MongoDB, Git, Docker, Angular, AngularJS,
+PostgreSQL, Grails, JavaEE, Spring, Tomcat, Jetty, Maven, JUnit, Jenkins, iOS,
+Android, Amazon Web Services (AWS)
 
-Methodologies: RESTful Web Services, Continuous Integration, MVC, Unit Testing,
-Design Patterns, Agile / Scrum, Object-Oriented Design
+Methodologies: RESTful Web Services, Continuous Integration, MVC, Unit
+Testing, Design Patterns, Agile / Scrum, Kanban, Object-Oriented Design,
+Functional Reactive Programming, Immutable Data Structures
 
 EXPERIENCE
 
-Amplify, Remote / Durham, NC                                 Jan 2012 - Present
+CA Technologies, Raleigh, NC                                 Sep 2015 - Present
+Principal Architect
+
+- Responsible for long-term strategy of analytics/reporting and collaborated
+  with product and user experience teams to plan and deliver user-facing
+  features across the Agile Central product.
+- Recognized as business unit representative and initial member of
+  organization-wide Architectural Excellence Initiative (ArX) which seeks to
+  foster technical leadership.
+- Led an exploration of a legacy analytics system, prioritized improvements,
+  and implemented several to ease customer issues and improve performance of
+  several processes by an order of magnitude. (Groovy, Grails, MongoDB)
+- Spearheaded the initial design and development of a front-door API service.
+  (Node.js, Falcor)
+- Developed front-end UI components incorporated throughout the product.
+  (React, Redux, JavaScript, HTML, CSS)
+
+Amplify, Remote / Durham, NC                                Jan 2012 - Sep 2015
 Technical Lead
 
-- Developed a web-based, collaborative education platform and workspace
-  providing integrated curriculum and assessment workflows. (JavaScript,
-  AngularJS, HTML5, CSS)
-- Coordinated with designers and curriculum developers to build math tools
-  which aid student instruction and assessment.
-- Implemented a proxy API which allows fast project iteration and API
-  development while maintaining integration with core API services. (Node.js,
-  Socket.io)
-- Developed an education data store, with full-stack involvement and specific
-  responsibility in the database, data access layer, and secure RESTful API.
-  (Java, Spring, JAX-RS)
 - Led the design and implementation of MongoDB sharding and indexing strategy
   and employed profiling and code analysis to optimize database queries.
   (MongoDB, JavaScript, Python)
-- Constructed initial API documentation generation workflow and worked closely
-  with the technical writer team to deliver platform documentation. (Python,
-  Bash)
-- Ensured code quality via full-stack unit and integration tests. (Jenkins,
-  Protractor, Karma, Jasmine, JUnit, Ruby)
-- Founded a company-wide technical meetup designed to provide a forum for
-  developers to spread expertise.
+- Coordinated with designers and curriculum developers to gather requirements
+  for and assess feature development timelines for a digital math curriculum
+  workspace.
+- Founded and facilitated a company-wide technical meetup designed to
+  disseminate best practices related to the technology stack and presented
+  frequently.
+- Developed a web-based, collaborative education platform and workspace
+  providing integrated curriculum and assessment workflows. (JavaScript,
+  AngularJS, HTML5, CSS)
+- Collaborated with technical writers and designed a workflow to generate
+  API documentation. (Python, Bash)
+- Developed an education data store, with full-stack involvement and specific
+  responsibility in the database, data access layer, and secure RESTful API.
+  (Java, Spring, JAX-RS)
+- Implemented a proxy API which allows fast project iteration and API
+  development while maintaining integration with core API services. (Node.js,
+  Socket.io)
 
 itMD, Remote                                                Apr 2011 - Dec 2011
 Software Engineer
@@ -92,17 +109,23 @@ MS, Computer Science - Focus on Bioinformatics
 Roanoke College                                             Aug 2001 - May 2005
 BS, Computer Science & Mathematics
 
-ACTIVITIES
+CONFERENCES AND COURSEWORK
+
+Speaker at 2015 Triad Software Developers Conference - AngularJS
+
+Technical Book Reviewer of RESTful Web Services with Scala by Jos Dirksen
 
 Recent Independent Coursework:
 - Advanced iOS Programming (Big Nerd Ranch)
 - Functional Programming Principles in Scala (Coursera)
 
-Attend community meetups: TriJUG, Triangle JavaScript, Triangle Cocoa,
-TriAngular.js, FullSteam Ahead! Run Club
+ACTIVITIES
 
-Running: Regularly log 45 miles per week. Completed eight marathons and one
-ultramarathon.
+Attend community meetups: TriJUG, Triangle JavaScript, Triangle Cocoa,
+TriAngular.js, Fleet Feet Raleigh Run Club, Raleigh Trail Runners
+
+Running: Regularly log 55 miles per week. Completed multiple marathons and
+ultramarathons.
 
 Pi Kappa Alpha: National Greek Social Fraternity. Elected chapter Internal
 Vice President. Developed and maintained chapter website.

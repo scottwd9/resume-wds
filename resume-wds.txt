@@ -22,7 +22,7 @@ Functional Reactive Programming, Immutable Data Structures
 
 EXPERIENCE
 
-CA Technologies, Raleigh, NC                                 Sep 2015 - Present
+Broadcom/CA Technologies/Rally Software, Raleigh, NC         Sep 2015 - Present
 Principal Architect
 
 - Responsible for long-term strategy of analytics/reporting and collaborated
